@@ -25,6 +25,6 @@ Endpoints Principales
 •	DELETE /topicos/{id}: Elimina un tópico (requiere autenticación).
 Notas
 •	Este proyecto se enfoca en el backend. La implementación de un frontend es una extensión futura.
-•	Cualquier duda o sugerencia, compártela en la comunidad de Alura Latam.
-Autor
+
+Autor Melissa Lopez Diaz
 Proyecto desarrollado como parte del programa ONE (Oracle Next Education) de Alura Latam.
